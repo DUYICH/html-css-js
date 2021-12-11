@@ -1,0 +1,46 @@
+
+.anh1-bocuc1{
+    display: inline-block;
+}
+h1{
+    text-align: center;
+    color: red;
+    width: 300;
+}
+.anh2-bocuc1{
+    display: inline-block;
+}
+.anh3-bocuc1{
+    display: inline-block;
+}
+
+.anh1-bocuc2{
+    display: inline-block;
+    vertical-align: text-top;
+}
+.text1-bocuc2{
+    display: inline-block;
+    vertical-align: text-top;
+} 
+.anh2-bocuc3{
+    display: inline-block;
+    vertical-align: text-top;
+}  
+.text2-bocuc3{
+    display: inline-block;
+    vertical-align: text-top;
+}
+.anh3-bocuc4{
+    display: inline-block;
+    vertical-align: text-top;
+}
+.text3-bocuc4{
+    display: inline-block;
+    vertical-align: text-top;
+}
+.anh4-bocuc5{
+    display: inline-block;
+}
+.anh5-bocuc6{
+    display: inline-block;
+}
